@@ -1,0 +1,13 @@
+langchain
+ipykernel
+python-dotenv
+langchain-community
+langchain-huggingface
+chromadb
+faiss-cpu
+wikipedia
+langchain-google-genai
+youtube-transcript-api
+langchain-groq
+streamlit
+langchain-ollama

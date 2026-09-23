@@ -4,6 +4,7 @@ python-dotenv
 langchain-community
 langchain-huggingface
 chromadb
+langchain-chroma
 faiss-cpu
 wikipedia
 langchain-google-genai
